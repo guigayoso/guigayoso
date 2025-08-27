@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Guilherme, and I am currently pursuing a master degree in data science!
+
 <!--
 **guigayoso/guigayoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
